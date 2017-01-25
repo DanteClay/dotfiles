@@ -3,7 +3,7 @@ alias code="cd $HOME/code"
 alias py="python3"
 alias pass="password-store"
 alias godoc="go doc"
-set -g godir "$HOME/go/src/github.com/danteswift"
+set -g godir "$HOME/go/src/github.com/danteclay"
 
 # env
 set -x GOPATH $HOME/go
